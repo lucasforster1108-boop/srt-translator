@@ -1,0 +1,24 @@
+1
+00:00:01,000 --> 00:00:03,500
+Hello, welcome to the show.
+
+2
+00:00:04,000 --> 00:00:06,200
+Today we are going to talk about the ocean.
+
+3
+00:00:06,800 --> 00:00:10,000
+The sea is very deep,
+and many strange animals live there.
+
+4
+00:00:10,500 --> 00:00:13,000
+I have lived in this small town for ten years.
+
+5
+00:00:13,500 --> 00:00:16,000
+Tomorrow morning, we will leave for the mountains.
+
+6
+00:00:16,500 --> 00:00:19,000
+Thank you for watching, and see you next time.
